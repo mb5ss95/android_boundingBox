@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="object">
+        <item>승용차</item>
+        <item>트럭</item>
+        <item>오토바이</item>
+        <item>자전거</item>
+        <item>사람</item>
+    </string-array>
+
+
+</resources>
